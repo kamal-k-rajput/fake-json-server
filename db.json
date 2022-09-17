@@ -1,14 +1,4 @@
 {
-  "user": [
-    {
-      "name": "kamal",
-      "password": "32",
-      "id": 1
-    },
-    {
-      "name": "kamal",
-      "password": "32",
-      "id": 2
-    }
-  ]
+  "cars": [],
+  "wishlisted_cars": []
 }
